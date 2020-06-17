@@ -1,0 +1,78 @@
+h1{
+    color:yellow;
+    background-color: blue;
+    text-align: center;
+}
+a{
+   text-align: center;
+   color: red;
+}
+.fotoslide{
+    margin: 10px;
+    padding-top:10px;
+    padding-left: 2px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 90%;
+  
+}
+p{
+    background-color: burlywood;
+    color: brown;
+    margin: 10px;
+    padding-top:10px;
+    padding-left: 2px;
+    padding-bottom: 10px;
+    padding-right: 2px;
+    width: 90%;
+
+
+}
+body{
+    
+    padding: 30px;
+    background-color: yellow ;
+    background: url(../img/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+   
+    
+}
+h2{
+    text-align: center;
+    color:white;
+}
+.jamie{
+    margin: 10px;
+    padding-top:10px;
+    padding-left: 2px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 90%;
+  
+}
+.muska{
+    margin: 10px;
+    padding-top:10px;
+    padding-left: 2px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 90%;
+  
+}
+.peter{
+    margin: 10px;
+    padding-top:10px;
+    padding-left: 2px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 90%;
+  
+}
+
+.final{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
