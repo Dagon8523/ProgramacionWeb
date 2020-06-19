@@ -93,7 +93,3 @@ body{
 h1{
     text-align: center;
 }
-img{
-    flex-direction: column;
-    padding: 20px;
-}
